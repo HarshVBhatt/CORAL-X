@@ -27,6 +27,7 @@ Loan default prediction systems often rely solely on individual borrower data, l
 - Create a separate folder inside the repo /path/to/repo/data/procesed. This is where the processed data will be saved
 
 - NOTE: pinecone_embedding_and_indexing.ipynb is used to generate embeddings for the unstructured data. The current file is a sample of how the process would work but is not reflective of the final state. This will be worked on in the next phase i.e. after the completion of structed data and it's respecive modelling.
+
 ---
 
 ## How to run
@@ -35,7 +36,7 @@ Loan default prediction systems often rely solely on individual borrower data, l
 - Run the notebook rand_OS_models_shap.ipynb. The notebook simulates random oversampling, experiments with LGBM and XGBoost classifiers using sklearn pipeline, and SHAP values for each sample in the test data which will be created in the notebook.
 - Note that the outputs in rand_OS_models_shap.ipynb are currently not saved. This is a work in progress. To reproduce the outputs, the entire notebook must be run again.
 
---
+---
 
 ## Methodology
 
