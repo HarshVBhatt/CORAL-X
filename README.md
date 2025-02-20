@@ -18,7 +18,6 @@ Loan default prediction systems often rely solely on individual borrower data, l
 ---
 
 ## Setup
-- Currently the most updated branch is "ml_models". This deals with processing structured data and creating ML models for the same. Make sure to switch to that before cloning
 - Create a dedicated folder where you would like to have all the notebooks and data. Clone the repo into the folder
 - Create a new environment
 - Use the requirements.txt with the following command to install all dependencies: pip install -r /path/to/requirements.txt
