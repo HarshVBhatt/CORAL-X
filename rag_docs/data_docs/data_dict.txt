@@ -1,0 +1,26 @@
+The following lines include the features present to make a decision whether the borrower will make good on the loan or default. For each feature it's identifier name in the dataset, description and type of values are mentioned. Certain features also have percentile information available:
+loan_amnt: Loan amount applied for by borrower (in $). Numerical values. The percentiles are as follows: the 25th percentile is 8000.0, the 50th percentile is 12950.0, the 75th percentile is 20000.0
+int_rate: Estimated interest rate on loan (%). Numerical values. The percentiles are as follows: the 25th percentile is 9.49, the 50th percentile is 12.62, the 75th percentile is 15.99
+installment: Monthly installments owed (in $). Numerical values. The percentiles are as follows: the 25th percentile is 251.77, the 50th percentile is 378.2, the 75th percentile is 593.49
+grade: Estimated loan grade (A,B,C...) where higher grade (e.g. A) indicates less risk, whereas a lower grade (e.g. D) indicates higher risk. Ordinal categorical values.
+sub_grade: Estimated loan sub-grade. Ordinal categorical values.
+emp_length: Employment length of borrower, in years. Numerical values. The percentiles are as follows: the 25th percentile is 2.0, the 50th percentile is 5.0, the 75th percentile is 10.0
+home_ownership: Home ownership status of borrower. Categorical values.
+annual_inc: Annual income of borrower (in $). Numerical values. The percentiles are as follows: the 25th percentile is 46000.0, the 50th percentile is 65000.0, the 75th percentile is 93000.0
+verification_status: Income verification status. Categorical values.
+purpose: Category provided by borrower for the loan request. Categorical values.
+title: Loan title provided by the borrower. Categorical values.
+addr_state: Residence state of borrower. Categorical values.
+dti: Monthly debt-to-income ratio of borrower. Ratio values. The percentiles are as follows: the 25th percentile is 11.9, the 50th percentile is 17.84, the 75th percentile is 24.5
+open_acc: Number of borrower's open credit lines. Numerical values.
+pub_rec: Number of borrower's derogatory public records. Numerical values.
+revol_bal: Total credit revolving balance of borrower. Numerical values. The percentiles are as follows: the 25th percentile is 5954.5, the 50th percentile is 11327.0, the 75th percentile is 20245.0
+revol_util: Revolving line utilization rate of borrower (in %). Numerical values. The percentiles are as follows: the 25th percentile is 31.5, the 50th percentile is 50.3, the 75th percentile is 69.3
+total_acc: Total number of borrower's credit lines. Numerical values. The percentiles are as follows: the 25th percentile is 15.0, the 50th percentile is 22.0, the 75th percentile is 31.0
+initial_list_status: Initial listing status of loan. Categorical values.
+application_type: Individual or joint application. Categorical values.
+mort_acc: Number of mortgage accounts of borrower. Numerical values.
+pub_rec_bankruptcies: Number of public record bankruptices of borrower. Numerical values.
+term_months: Number of monthly payments in loan. Numerical values.
+earliest_cr_line_year: Year that borrower's earliest credit line was opened. Date values.
+earliest_cr_line_month: Month that borrower's earliest credit line was opened. Date values.

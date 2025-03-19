@@ -1,0 +1,52 @@
+The following lines contain information about the median annual income, median loan amounts, median debt-to-income ratio and default rates for states in USA:
+For the state of Alaska, the median annual income is $72000.0, the median loan amount is $15850.0, the median debt-to-income ratio is 18.395, and the loan default rate is 13.18%.
+For the state of Alabama, the median annual income is $60441.520000000004, the median loan amount is $12150.0, the median debt-to-income ratio is 19.99, and the loan default rate is 15.76%.
+For the state of Arkansas, the median annual income is $57000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 20.19, and the loan default rate is 15.46%.
+For the state of Arizona, the median annual income is $62000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 17.97, and the loan default rate is 13.02%.
+For the state of California, the median annual income is $70000.0, the median loan amount is $13000.0, the median debt-to-income ratio is 16.11, and the loan default rate is 13.42%.
+For the state of Colorado, the median annual income is $65000.0, the median loan amount is $13000.0, the median debt-to-income ratio is 17.69, and the loan default rate is 10.45%.
+For the state of Connecticut, the median annual income is $70000.0, the median loan amount is $13000.0, the median debt-to-income ratio is 16.74, and the loan default rate is 10.71%.
+For the state of District of Columbia, the median annual income is $82000.0, the median loan amount is $14087.5, the median debt-to-income ratio is 14.78, and the loan default rate is 9.47%.
+For the state of Delaware, the median annual income is $65000.0, the median loan amount is $12500.0, the median debt-to-income ratio is 18.67, and the loan default rate is 12.57%.
+For the state of Florida, the median annual income is $60000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 18.07, and the loan default rate is 14.04%.
+For the state of Georgia, the median annual income is $65000.0, the median loan amount is $13250.0, the median debt-to-income ratio is 18.49, and the loan default rate is 11.88%.
+For the state of Hawaii, the median annual income is $65000.0, the median loan amount is $14400.0, the median debt-to-income ratio is 18.83, and the loan default rate is 13.96%.
+For the state of Iowa, the median annual income is $45000.0, the median loan amount is $7200.0, the median debt-to-income ratio is 16.49, and the loan default rate is 14.29%.
+For the state of Idaho, the median annual income is $55000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 19.14, and the loan default rate is 8.59%.
+For the state of Illinois, the median annual income is $68000.0, the median loan amount is $14000.0, the median debt-to-income ratio is 17.7, and the loan default rate is 11.21%.
+For the state of Indiana, the median annual income is $60000.0, the median loan amount is $12100.0, the median debt-to-income ratio is 19.31, and the loan default rate is 13.48%.
+For the state of Kansas, the median annual income is $60000.0, the median loan amount is $12750.0, the median debt-to-income ratio is 19.47, and the loan default rate is 10.73%.
+For the state of Kentucky, the median annual income is $60000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 19.295, and the loan default rate is 13.38%.
+For the state of Louisiana, the median annual income is $65000.0, the median loan amount is $12700.0, the median debt-to-income ratio is 19.1, and the loan default rate is 15.17%.
+For the state of Massachusetts, the median annual income is $70000.0, the median loan amount is $14000.0, the median debt-to-income ratio is 16.31, and the loan default rate is 12.5%.
+For the state of Maryland, the median annual income is $75000.0, the median loan amount is $14400.0, the median debt-to-income ratio is 17.4, and the loan default rate is 13.71%.
+For the state of Maine, the median annual income is $59860.0, the median loan amount is $12000.0, the median debt-to-income ratio is 19.884999999999998, and the loan default rate is 6.45%.
+For the state of Michigan, the median annual income is $60522.0, the median loan amount is $12000.0, the median debt-to-income ratio is 18.41, and the loan default rate is 13.25%.
+For the state of Minnesota, the median annual income is $62000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 18.37, and the loan default rate is 13.03%.
+For the state of Missouri, the median annual income is $60000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 19.15, and the loan default rate is 13.76%.
+For the state of Mississippi, the median annual income is $60000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 20.15, and the loan default rate is 15.49%.
+For the state of Montana, the median annual income is $55000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 19.37, and the loan default rate is 11.1%.
+For the state of North Carolina, the median annual income is $60500.0, the median loan amount is $12500.0, the median debt-to-income ratio is 18.52, and the loan default rate is 13.72%.
+For the state of North Dakota, the median annual income is $60000.0, the median loan amount is $14000.0, the median debt-to-income ratio is 20.14, and the loan default rate is 10.55%.
+For the state of Nebraska, the median annual income is $55612.0, the median loan amount is $12000.0, the median debt-to-income ratio is 19.365000000000002, and the loan default rate is 12.88%.
+For the state of New Hampshire, the median annual income is $66000.0, the median loan amount is $12800.0, the median debt-to-income ratio is 18.59, and the loan default rate is 9.51%.
+For the state of New Jersey, the median annual income is $74500.0, the median loan amount is $14300.0, the median debt-to-income ratio is 16.35, and the loan default rate is 13.46%.
+For the state of New Mexico, the median annual income is $62000.0, the median loan amount is $12850.0, the median debt-to-income ratio is 19.95, and the loan default rate is 14.25%.
+For the state of Nevada, the median annual income is $62000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 18.1, and the loan default rate is 14.65%.
+For the state of New York, the median annual income is $66000.0, the median loan amount is $12300.0, the median debt-to-income ratio is 15.81, and the loan default rate is 14.33%.
+For the state of Ohio, the median annual income is $60000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 19.42, and the loan default rate is 12.87%.
+For the state of Oklahoma, the median annual income is $62000.0, the median loan amount is $13000.0, the median debt-to-income ratio is 19.54, and the loan default rate is 15.23%.
+For the state of Oregon, the median annual income is $60000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 17.36, and the loan default rate is 9.66%.
+For the state of Pennsylvania, the median annual income is $62499.0, the median loan amount is $12125.0, the median debt-to-income ratio is 18.87, and the loan default rate is 13.46%.
+For the state of Rhode Island, the median annual income is $65000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 16.91, and the loan default rate is 11.56%.
+For the state of South Carolina, the median annual income is $60500.0, the median loan amount is $12800.0, the median debt-to-income ratio is 19.2, and the loan default rate is 10.32%.
+For the state of South Dakota, the median annual income is $54000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 20.71, and the loan default rate is 13.95%.
+For the state of Tennessee, the median annual income is $60000.0, the median loan amount is $12050.0, the median debt-to-income ratio is 19.62, and the loan default rate is 13.41%.
+For the state of Texas, the median annual income is $70000.0, the median loan amount is $14000.0, the median debt-to-income ratio is 18.92, and the loan default rate is 12.92%.
+For the state of Utah, the median annual income is $63000.0, the median loan amount is $13000.0, the median debt-to-income ratio is 18.43, and the loan default rate is 12.41%.
+For the state of Virginia, the median annual income is $72000.0, the median loan amount is $14675.0, the median debt-to-income ratio is 18.09, and the loan default rate is 13.24%.
+For the state of Vermont, the median annual income is $58955.0, the median loan amount is $12000.0, the median debt-to-income ratio is 19.88, and the loan default rate is 8.43%.
+For the state of Washington, the median annual income is $66500.0, the median loan amount is $13800.0, the median debt-to-income ratio is 17.66, and the loan default rate is 10.73%.
+For the state of Wisconsin, the median annual income is $60000.0, the median loan amount is $12000.0, the median debt-to-income ratio is 18.98, and the loan default rate is 12.2%.
+For the state of West Virginia, the median annual income is $60000.0, the median loan amount is $13000.0, the median debt-to-income ratio is 19.81, and the loan default rate is 9.65%.
+For the state of Wyoming, the median annual income is $65000.0, the median loan amount is $14400.0, the median debt-to-income ratio is 20.23, and the loan default rate is 11.19%.

@@ -1,0 +1,15 @@
+For all loans, the default rate is 13.04%. The following lines include the loan default rates amongst loans taken for various purposes:
+For car purposes, the default rate is 9.87%
+For credit card purposes, the default rate is 10.61%
+For debt consolidation purposes, the default rate is 14.1%
+For educational purposes, the default rate is 17.13%
+For home improvement purposes, the default rate is 11.49%
+For house purposes, the default rate is 12.89%
+For major purchase purposes, the default rate is 12.22%
+For medical purposes, the default rate is 13.6%
+For moving purposes, the default rate is 15.86%
+For other purposes, the default rate is 13.16%
+For renewable energy purposes, the default rate is 16.57%
+For small business purposes, the default rate is 20.34%
+For vacation purposes, the default rate is 12.41%
+For wedding purposes, the default rate is 12.14%
